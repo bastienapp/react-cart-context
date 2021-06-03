@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "basket",
+    "price": 45.0
+  },
+  {
+    "id": 2,
+    "name": "pastèque",
+    "price": 3.0
+  },
+  {
+    "id": 3,
+    "name": "clavier",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "avion",
+    "price": 10000000.5
+  }
+]
